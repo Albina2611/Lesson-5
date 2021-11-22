@@ -1,0 +1,25 @@
+h1{
+    text-align: center;
+    font-size: 45px;
+}
+table{
+    border-spacing: 15px;
+    
+    margin: 0 auto;
+}
+td{
+    border-left: 3px solid rgb(34, 24, 184);
+    width: 800px;
+    height: 10vh;
+    font-size: 30px;
+    padding: 15px;
+}
+code{
+    color: brown;
+}
+th{
+    font-size: 35px;
+}
+td:hover{
+    border-left: 3px solid rgb(238, 113, 238);
+}
